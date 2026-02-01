@@ -74,7 +74,10 @@
   
   .img-desc-box {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    gap: 8px;
+    padding: 8px;
+    justify-content: space-around;
   }
   
   .img-desc {
